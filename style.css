@@ -1,0 +1,43 @@
+body{
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	width: 100vw;
+	background-color: rgb(18, 119, 202);
+}
+
+.block{
+	background-color: #fff;
+	padding: 50px;
+	border-radius: 10px;
+}
+
+h1{
+	margin-top: 0px;
+}
+
+button{
+	padding: 10px 30px;
+	background-color: rgb(17, 99, 223);
+	color: #fff;
+	border: none;
+	margin-bottom: 10px;
+	margin:10px ;
+}
+
+
+.hide{
+	display: none;
+}
+
+.wrong{
+	background-color: rgba(184, 12, 12, 0.952);
+}
+
+.correct{
+	background-color: rgb(11, 145, 89);
+}
+
